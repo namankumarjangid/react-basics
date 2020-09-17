@@ -1,0 +1,22 @@
+.active_class{
+    color: aqua;
+    border-bottom: brown;
+}
+
+.menu-style{
+    width: 100%;
+    line-height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.search{
+    padding: 10px 10px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
